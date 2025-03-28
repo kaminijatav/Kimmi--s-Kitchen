@@ -37,9 +37,9 @@ console.log("Error")
 
 }
 // fetch user cart data
-const getCart =async (req, res) => {
+// const getCart =async (req, res) => {
 
-}
+// }
 export {addToCart,removeFromCart,getCart}
 
 // "email": "johndoe@example.com",
